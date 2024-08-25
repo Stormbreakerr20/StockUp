@@ -1,9 +1,5 @@
 # TokenizedStockBuying Smart Contract
 
-
-![ Details](desc.jpeg)
-
-
 ## Overview
 
 The `TokenizedStockBuying` smart contract is a Solidity-based smart contract for managing the buying and selling of stocks on the Ethereum blockchain. It allows users to buy stocks, mark them as sold, and view stock details and all stocks owned by a user.
@@ -73,12 +69,12 @@ The `Buyer` struct represents details about a stock purchase:
 
 ## Developer Details
 
-Name Shubh sahu
-Email : shubhxtech@gmail.com
-Github UserName : shubhxtech
+Name Luv Sharma
+Email : luvsharma.del@gmail.com
+Github UserName : Strombreakerr20
 
 ## Deployment Details
 Chain : EduChain
-Contract Id : 0x9eb484d3278c0b3329b13ab4c966c2e80bf3e6c3
+Contract Id : 0x9eb484d3278c0b3329b13ab4c966c2e80bf3e6c7
 
 ![Contract Details](image.png)
